@@ -8,3 +8,5 @@ GitHub Markdown - https://github.github.com/gfm
 [GitHub Markdown](https://github.github.com/gfm)
 
 <a href="https://github.github.com/gfm">GitHub Markdown</a>
+
+![MentorNames](MentorNames_WordCloud.png "Image with all Mentor Names")
