@@ -1,9 +1,8 @@
-# hpcinthecity-githuboverview
+# HPC in the City: Pandemics
+## Github Overview
   
   Used during the 2023 HPC in the City:Pandemics Hackathon as an overview
-  Charlie is collaborating w/ Je'aime Powell
 
-  Hi Je'aime!!!
 
 ## Important Links
 GitHub Markdown - https://github.github.com/gfm
